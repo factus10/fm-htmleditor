@@ -1,6 +1,7 @@
 # FM-HTMLeditor
 FM-HTMLEditor - a rich text editor framework for FileMaker
 
+![screencapture](/fm-htmleditor-screenshot.png)
 
 It builds on Tim Dietrich’s [FM EasyHTML](https://timdietrich.me/open-source/]) using techniques described in FileMaker Magazine‘s [Basic JavaScripting – Adding a color picker](https://www.filemakermagazine.com/videos/basic-javascripting-adding-color-picker).
 
